@@ -1,0 +1,4 @@
+- latihan javascript dari awal lagi
+- belajar dom dan json
+- membuat sebuah website prototype
+- masih mencari
