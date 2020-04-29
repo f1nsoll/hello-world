@@ -3,4 +3,4 @@
 - membuat sebuah website prototype
   * membuat website dengan framework boostrap
   * menyelasaikan kursus online builtwith anggarisky
-- masih mencari
+- akan menambah wawasan lagi
