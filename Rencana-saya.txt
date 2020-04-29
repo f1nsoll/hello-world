@@ -1,4 +1,6 @@
 - latihan javascript dari awal lagi
 - belajar dom dan json
 - membuat sebuah website prototype
+  * membuat website dengan framework boostrap
+  * menyelasaikan kursus online builtwith anggarisky
 - masih mencari
